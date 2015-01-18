@@ -1,6 +1,6 @@
+dt:hover + dd{ 
+    background-color: purple;
+}
 img {
     float:left;
-}
-body {
-    background-color:bisque;
 }
