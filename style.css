@@ -34,7 +34,7 @@ dt:hover + dd {
 .inner-content {
     background-color:lightblue;
     width:75%;
-    margin-left:12.5%;
+    margin:auto;
     text-align:center;
 }
 img {
