@@ -1,5 +1,17 @@
-dt:hover + dd{ 
+dt:hover + dd { 
     background-color: purple;
+}
+.outer-content {
+    background-color:pink;
+    margin-top:20px;
+    padding:20px;
+    width:75%;
+}
+.inner-content {
+    background-color:lightblue;
+    width:75%;
+    margin-left:12.5%;
+    text-align:center;
 }
 img {
     float:left;
