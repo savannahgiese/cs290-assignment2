@@ -1,3 +1,27 @@
+table, td, th {
+    border: 1px solid black;
+}
+thead{
+    font-weight:bold;
+}
+tbody td:nth-child(1){
+    font-style:italic;
+}
+tbody td:nth-child(2){
+    color:red;
+}
+tbody td:nth-child(4){
+    color:blue;
+}
+tbody td:nth-child(1){
+    font-style:italic;
+}
+tbody tr:nth-child(odd){
+    background-color:lightblue;
+}
+tbody tr:nth-child(even){
+    background-color:lightgreen;
+}
 dt:hover + dd { 
     background-color: purple;
 }
